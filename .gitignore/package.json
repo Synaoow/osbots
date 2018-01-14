@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "osbots",
   "version": "1.0.0",
   "description": "OSBot est un outils pour le discord.",
   "main": "index.js",
